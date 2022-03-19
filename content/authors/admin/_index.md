@@ -75,4 +75,4 @@ I received my Bachelor's and Master's degrees from Rice University, where I work
 
 I've also spent time at Microsoft Research AI, where I worked with Alex Polozov and the [GRAIL group](https://www.microsoft.com/en-us/research/group/grounded-reasoning-and-interactive-learning-grail/) on interactive ML-driven program synthesis. I am currently collaborating with Jon DeCastro and [TRI](https://www.tri.global/) to help roboticists write better tests.
 
-In my free time, I enjoy doing a lot of things, including but not limited to: playing tennis, writing subpar poetry, cooking, and repeatedly fixing and breaking my jumpshot. I'm originally from Cleveland, Ohio, and I love watching my beloved Cavaliers and Browns break my heart year after year.
+In my free time, I enjoy doing a lot of things, including but not limited to: playing tennis, writing subpar poetry, cooking, and repeatedly fixing and breaking my jumpshot. I'm originally from Cleveland, Ohio, and I love watching my beloved Cavaliers break my heart year after year.
