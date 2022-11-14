@@ -38,7 +38,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: Slide into my DMs
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/ameeshsh'
 
 
 design:

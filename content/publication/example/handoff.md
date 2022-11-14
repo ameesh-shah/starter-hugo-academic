@@ -17,11 +17,11 @@ authors:
 #author_notes:
 
 
-date: "2021-03-01T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-01T00:00:00Z"
+publishDate: "2022-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
-publication_short: UC Berkeley Technical Report
+publication_short: At *ITSC* 2022; UC Berkeley Technical Report
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

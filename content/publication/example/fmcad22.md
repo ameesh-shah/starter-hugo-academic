@@ -1,33 +1,34 @@
 ---
-title: "Learning Concepts from Membership and Preference Queries"
+title: "Learning Deterministic Finite Automata Decompositions from Examples and Demonstrations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Niklas Lauffer
+- Beyazit Yalcinkaya
 - Marcell Vazquez-Chanlatte
-- Sebastian Junges
+- admin
 - Sanjit A. Seshia
 # Author notes (optional)
 #author_notes:
 
 
-date: "2022-10-11T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-11T00:00:00Z"
+publishDate: "2022-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
-publication_short: Under Review
+publication_short: At *FMCAD* 2022
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2205.13013.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
