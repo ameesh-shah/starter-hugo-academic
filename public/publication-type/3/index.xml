@@ -5,7 +5,7 @@
     <link>https://ameesh-shah.github.io/publication-type/3/</link>
       <atom:link href="https://ameesh-shah.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ameesh-shah.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Learning Concepts from Membership and Preference Queries</title>
-      <link>https://ameesh-shah.github.io/publication/example/memreps/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ameesh-shah.github.io/publication/example/memreps/</guid>
+      <title>Demonstration-Informed Specification Search</title>
+      <link>https://ameesh-shah.github.io/publication/example/diss/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ameesh-shah.github.io/publication/example/diss/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demonstration-Informed Specification Search</title>
-      <link>https://ameesh-shah.github.io/publication/example/diss/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ameesh-shah.github.io/publication/example/diss/</guid>
+      <title>Learning Concepts from Membership and Preference Queries</title>
+      <link>https://ameesh-shah.github.io/publication/example/memreps/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ameesh-shah.github.io/publication/example/memreps/</guid>
       <description></description>
     </item>
     

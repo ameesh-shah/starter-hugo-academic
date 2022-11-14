@@ -33,25 +33,33 @@
     </item>
     
     <item>
+      <title>Demonstration-Informed Specification Search</title>
+      <link>https://ameesh-shah.github.io/publication/example/diss/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ameesh-shah.github.io/publication/example/diss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Concepts from Membership and Preference Queries</title>
       <link>https://ameesh-shah.github.io/publication/example/memreps/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://ameesh-shah.github.io/publication/example/memreps/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demonstration-Informed Specification Search</title>
-      <link>https://ameesh-shah.github.io/publication/example/diss/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ameesh-shah.github.io/publication/example/diss/</guid>
+      <title>Learning Deterministic Finite Automata Decompositions from Examples and Demonstrations</title>
+      <link>https://ameesh-shah.github.io/publication/example/fmcad22/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://ameesh-shah.github.io/publication/example/fmcad22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-based Formalization of the Autonomy-to-Human Perception Hand-off</title>
       <link>https://ameesh-shah.github.io/publication/example/handoff/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://ameesh-shah.github.io/publication/example/handoff/</guid>
       <description></description>
     </item>
@@ -292,24 +300,6 @@ $$&lt;/p&gt;
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://ameesh-shah.github.io/publication/example/gcurs/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://ameesh-shah.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://ameesh-shah.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://ameesh-shah.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://ameesh-shah.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
     </item>
     
     <item>
